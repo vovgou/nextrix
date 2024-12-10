@@ -1,3 +1,3 @@
-# Kestrel Framework
+# Nextrix Framework
 
-Kestrel Framework is a lightweight,high-productivity and fully asynchronous game server development framework.
+Nextrix Framework is a lightweight,high-productivity and fully asynchronous game server development framework.
