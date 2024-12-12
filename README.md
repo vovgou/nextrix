@@ -1,13 +1,4 @@
-<style>
-	.logo {
-		color: #0050a3;
-		background-color:white;
-		font-weight: bold;
-		margin: 10px 13px 10px 13px;
-		border: none;
-	}
-</style>
-<pre class="logo">
+<pre style="background-color:white;border: none;font-weight: bold;color: #0050a3;">
  _______                   __          __        
  \      \   ____ ___  ____/  |________|__|__  ___
  /   |   \_/ __ \\  \/  /\   __\_  __ \  \  \/  /
